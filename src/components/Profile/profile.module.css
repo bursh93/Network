@@ -1,0 +1,149 @@
+
+img {
+    height: 210px;
+}
+
+
+.profile {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-gap: 15px;
+}
+
+.GridBlock_1_3_5 div {
+    align-self: start;
+    background: #f9f9f9;
+    min-height: 35px;
+    max-width: 650px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+
+.Grid_2_4_6   div {
+    align-self: start;
+    background: #f9f9f9;
+    min-height: 35px;
+    max-width: 650px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.ilyaImg {
+    height: 250px;
+    border: 2px solid black;
+}
+.buttonSetting {
+    cursor: pointer;
+    padding-top: 10px;
+    text-align: center;
+}
+.buttonSetting:hover {
+    background: gray;
+}
+
+
+
+.wrapperPosts div {
+     background: #bfbfbf;
+ }
+.DivUnderPost div {
+    padding: 15px;
+    background: white;
+}
+
+
+.FriendsGrid {
+    margin-left: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.FriendsGrid a {
+    text-decoration: none;
+    color: #3f4edc;
+     font-weight: 700;
+}
+
+.Prosto {
+    padding: 15px;
+}
+
+.fullName {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+/*========================================*/
+
+.blokFotoVideo {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.blokFotoVideo div {
+    margin-right: 20px;
+}
+
+
+.buttonFotoChange {
+    height: 45px;
+    background: gray;
+
+
+}
+
+.buttonChange2 {
+    font-weight: 900;
+    margin: 5px;
+    background: gray;
+}
+
+
+.PostInput {
+
+    height: 45px;
+    border-radius: 1px;
+}
+
+.ButtonPost {
+    background: #1e276b;
+    height: 55px;
+
+
+}
+
+.FriendHeadersDiv {
+    background: #e9e9e9;
+    cursor: pointer;
+    height: 22px;
+}
+
+.status {
+    padding-top: 6px;
+}
+
+
+.FriendsPage {
+    max-height: 200px;
+    align-self: start;
+
+}
+
+
+.FormPost {
+    height: 120px;
+    background: white;
+}

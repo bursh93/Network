@@ -1,0 +1,49 @@
+
+
+
+body {
+    margin: 0 auto;
+    background: #bfbfbf;
+    font-family: sans-serif;
+}
+
+.allPosition {
+    position: relative;
+}
+
+
+.Wrapper {
+
+    padding: 20px;
+    margin: 0 auto;
+    width: 1100px;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-row-gap: 20px;
+
+}
+
+
+.head {
+    background: #205fa8;
+    height: 67px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+
+
+.menu a {
+    text-decoration: none;
+    color: #3f4edc;
+}
+.menu div {
+    width: 120px;
+    height: 24px;
+}
+
+.menu div:hover {
+    background: #b5b5b5;
+}
+

@@ -1,0 +1,18 @@
+
+
+
+
+
+.InputStatus1 {
+        background: #313131;
+         height: 140px;
+}
+.InputStatus1 button {
+    background: #3f4edc;
+    height: 30px;
+
+}
+
+.SpanStatus:hover {
+    background: gray;
+}

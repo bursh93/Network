@@ -1,0 +1,46 @@
+
+
+
+
+
+.Grid {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-template-areas:
+    "block1   block2"
+
+
+;
+}
+
+.block1{
+    grid-area: block1;
+
+
+}
+.block2{
+    align-self: start;
+    grid-area: block2;
+
+}
+
+.box1 {
+    background: white;
+    height: 120px;
+}
+.box1 a {
+    text-decoration: none;
+    color: #3f4edc;
+}
+
+.box1 div:hover {
+    background: #b2b2b2;
+}
+
+.box2{
+    background: white;
+       margin-top: 20px;
+
+}
+
+

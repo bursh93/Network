@@ -1,0 +1,36 @@
+
+
+
+.setting {
+    min-height: 120px;
+    cursor: pointer;
+}
+
+
+
+.InformationText {
+    text-align: center;
+    cursor: pointer;
+}
+
+.InformationText:hover {
+    background: #cfcfcf;
+
+}
+
+.setting2 {
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.setting2:hover {
+    background: #cfcfcf;
+}
+
+
+
+.information  div{
+    background: #b5b5b5;
+
+}

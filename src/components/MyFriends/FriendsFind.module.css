@@ -1,0 +1,29 @@
+
+
+
+
+
+.Grid {
+
+    background: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+    "block1   block2"
+;
+}
+
+.Grid div {
+    margin: 10px;
+
+    border: 2px solid black;
+}
+
+
+.poiskFriends {
+
+    height: 80px;
+    background: #b2b2b2;
+    margin-bottom: 25px;
+}
+

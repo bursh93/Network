@@ -1,0 +1,32 @@
+
+.Slider {
+    position: relative;
+
+}
+
+.img {
+    height: 200px;
+    width: 600px;
+
+}
+
+.next {
+position: absolute;
+    top: 100px;
+    right: 1px;
+    opacity: 0.1;
+}
+
+.prev {
+    position: absolute;
+    top: 100px;
+    border-radius:5px;
+    opacity: 0.1;
+}
+
+.Slider:hover .prev {
+    opacity: 1;
+}
+.Slider:hover .next {
+    opacity: 1;
+}

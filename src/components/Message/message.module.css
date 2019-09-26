@@ -1,0 +1,18 @@
+
+.FormMessage {
+    height: 120px;
+    background: white;
+}
+.GridMessage  hr {
+
+    width: 1000px;
+    color: white;
+}
+
+.GridMessage {
+
+    background: gray;
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-gap: 20px;
+}

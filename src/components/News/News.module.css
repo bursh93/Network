@@ -1,0 +1,21 @@
+
+
+
+
+.news {
+    width: 601px;
+}
+
+
+.block1 {
+    width: 300px;
+}
+
+
+.sticky {
+    float: right;
+    position: sticky;
+    top: 30px;
+
+
+}
